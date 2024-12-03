@@ -1,0 +1,19 @@
+{
+    "translation": {
+        "Bem-vindo!": "Bem-vindo!",
+        "Ao Projeto sobre CRUD feito em react Native": "  Ao Projeto sobre CRUD feito em react Native",
+        "Ver Lista de Usuarios": "Ver Lista de Usuarios",
+        "Adicionar Usuario": "Adicionar Usuario",
+        "Lista de Usuários": "Lista de Usuários",
+        "Formulário de Usuários": "Formulário de Usuários",
+        "Tela Inicial": "Tela Inicial",
+        "Informe o Nome": "Informe o Nome",
+        "Informe o Email": "Informe o Email",
+        "Informe a Url do Avatar": "Informe a Url do Avatar",
+        "Excluir Usuário": "Excluir Usuário",
+        "Deseja Excluir Usuário?": "Deseja Excluir Usuário?",
+        "Sim":"Sim",
+        "Não":"Não",
+        "Salvar":"Salvar"
+    }
+}

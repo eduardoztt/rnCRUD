@@ -1,0 +1,19 @@
+{
+    "translation": {
+        "Bem-vindo!": "Welcome!",
+        "Ao Projeto sobre CRUD feito em react Native": "To the CRUD project made in React Native",
+        "Ver Lista de Usuarios": "View User List",
+        "Adicionar Usuario": "Add User",
+        "Lista de Usuários": "User List",
+        "Formulário de Usuários": "User Form",
+        "Tela Inicial": "Home Screen",
+        "Informe o Nome": "Enter Name",
+        "Informe o Email": "Enter Email",
+        "Informe a Url do Avatar": "Enter Avatar URL",
+        "Excluir Usuário": "Delete User",
+        "Deseja Excluir Usuário?": "Do you want to delete the user?",
+        "Sim": "Yes",
+        "Não": "No",
+        "Salvar":"Save"
+    }
+}
